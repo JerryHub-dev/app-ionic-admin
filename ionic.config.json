@@ -1,0 +1,8 @@
+{
+  "name": "app-ionic-admin",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "9c44fd30"
+}
