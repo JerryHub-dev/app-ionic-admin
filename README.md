@@ -1,7 +1,7 @@
-## app-ionic-admin
+# app-ionic-admin
 
 ## 简介
-react ， ionic ， ionicionicframework ， 编写的 IOS ， Android 模版项目
+一款由 React, Ionic, IonicFramework, 编写的 iOS, Android 跨平台原生运行时模版项目, 支持它们的平台上访问丰富的原生设备功能。通过iOS上的Swift插件API, Android上的Java和网络上的JavaScript，添加本机功能非常简单。
 
 ## 环境设置
 - 首先得有 node，并确保 node 版本是 16 或以上。（推荐用 nvm 来管理 node 版本，windows 下推荐用 nvm-windows）
